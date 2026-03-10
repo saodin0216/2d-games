@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 20dddc380a55c4fc8ac5e7ef69d42c05
+guid: 54f265f3d45e94642b6c7ed1ae58b295
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6950277935340814751
-    second: pngtree-finish-button-in-pixel-art-style-png-image_8364588 1_0
+      213: -7669268028350366152
+    second: Pasted Graphic_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-finish-button-in-pixel-art-style-png-image_8364588 1_0
+      name: Pasted Graphic_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1200
-        height: 900
+        width: 451
+        height: 173
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f91893245f8547060800000000000000
-      internalID: 6950277935340814751
+      spriteID: 83e7aea9c59419590800000000000000
+      internalID: -7669268028350366152
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pngtree-finish-button-in-pixel-art-style-png-image_8364588 1_0: 6950277935340814751
+      Pasted Graphic_0: -7669268028350366152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
